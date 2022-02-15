@@ -1,6 +1,6 @@
 import React from 'react'
 
-import Article from './components/Article/Article'
+import {Article, Brand, CTA} from './components'
 
 const App = () => {
   return (
